@@ -1,0 +1,9 @@
+<ul id="post-list">
+    {% assign posts=site.posts | where:"category", "projects" %}
+    {% for post in posts %}
+        <li>
+            <a href='{{ post.url }}'><aside class="dates">{{ post.date | date:"%b %d" }}</aside></a>
+            <a href='{{ post.url }}'>{{ post.title }} <h2>{{ post.description }}</h2></a>
+        </li>
+    {% endfor %}
+</ul> 

@@ -1,0 +1,19 @@
+name: Giuseppe Pessia
+description: Web-designer & front-end developer
+meta_description: "Giuseppe Pessia, web-designer e front-end developer."
+
+aboutPage: true
+
+markdown: redcarpet
+redcarpet:
+  extensions: ['smart', 'superscript']
+
+baseurl: /
+domain_name: 'http://gpessia.net'
+
+# Details for the RSS feed generator
+url:            'http://gpessia.net'
+author:         'Giuseppe Pessia'
+authorTwitter:  'gpessia'
+
+permalink:       /:categories/:title/
