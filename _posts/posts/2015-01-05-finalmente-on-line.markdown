@@ -5,4 +5,4 @@ description:
 type: post
 layout: default
 ---
-No, queste pagine non potevano continuare a puntar al nulla.
+Come da titolo.
