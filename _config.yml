@@ -4,9 +4,7 @@ meta_description: "Giuseppe Pessia, web-designer e front-end developer."
 
 aboutPage: true
 
-markdown: redcarpet
-redcarpet:
-  extensions: ['smart', 'superscript']
+markdown: kramdown
 
 baseurl: /
 domain_name: 'http://gpessia.net'
