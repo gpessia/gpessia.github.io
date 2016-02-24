@@ -1,7 +1,7 @@
 ---
 title:  "Ancora una prova"
 date:   2016-02-24 10:18:00
-description: 
+description:
 type: post
 layout: default
 ---
