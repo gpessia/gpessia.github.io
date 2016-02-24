@@ -5,4 +5,4 @@ description:
 type: post
 layout: default
 ---
-Come da titolo.
+Come da titolo…
