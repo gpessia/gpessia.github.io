@@ -1,6 +1,6 @@
 ---
 title:  "Ancora una prova"
-date:   2016-02-19 10:18:00
+date:   2016-02-26 10:18:00
 description: 
 type: post
 layout: default
